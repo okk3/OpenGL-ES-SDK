@@ -1,0 +1,3 @@
+Use the DLLs from this folder to run your executable after compiling with with newer MSVC (either MSVC17 or MSVC19).
+
+The difference between these and the others I provide in this library is just that these have been compiled to support MSVC17 and MSVC19, I don't like VCPKG so incompatibilities may happen if you use VCPKG for this library.
